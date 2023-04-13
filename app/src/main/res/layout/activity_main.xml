@@ -101,7 +101,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p1"
                     android:text="17:30"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP2"
@@ -112,7 +112,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p2"
                     android:text="19:30"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP3"
@@ -123,7 +123,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p3"
                     android:text="20:00"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btnP4"
@@ -134,7 +134,7 @@
                     android:background="@drawable/botao"
                     android:contentDescription="p4"
                     android:text="21:00"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
             </LinearLayout>
 
             <Button
@@ -143,7 +143,7 @@
                 android:layout_height="wrap_content"
                 android:contentDescription="Reserve"
                 android:text="RESERVE"
-                android:textSize="15dp" />
+                android:textSize="15sp" />
 
         </LinearLayout>
 
